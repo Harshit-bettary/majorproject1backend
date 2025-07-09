@@ -36,7 +36,6 @@ const registerUser = async (req, res) => {
         <h2>Welcome to DriveEasy, ${name}!</h2>
         <p>Please verify your email by clicking the button below:</p>
         <a href="${verificationUrl}" style="background: #28a745; padding: 10px 20px; color: white; text-decoration: none; border-radius: 4px;">Verify Email</a>
-        <p>Or copy and paste this link into your browser: <br/> ${verificationUrl}</p>
       </div>
     `;
 
