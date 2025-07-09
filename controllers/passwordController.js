@@ -153,8 +153,6 @@ DriveEasy — Making vehicle rentals simple, affordable, and enjoyable.
   <p>Hi <strong>${user.name}</strong>,</p>
   <p>Thanks for registering with <strong>DriveEasy</strong>. To activate your account, please verify your email address.</p>
   <a href="${verifyUrl}" style="display: inline-block; margin: 10px 0; padding: 12px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px;">Verify Email</a>
-  <p>If the button doesn’t work, copy and paste this link into your browser:</p>
-  <p style="word-break: break-word;">${verifyUrl}</p>
   <hr>
   <p style="font-size: 12px; color: #888;">
     This link expires in 24 hours.<br>
